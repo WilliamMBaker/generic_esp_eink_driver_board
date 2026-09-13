@@ -8906,17 +8906,17 @@
 	)
 	(global_label "SD_DET"
 		(shape input)
-		(at 153.67 153.67 0)
+		(at 123.19 115.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "06513c7e-d028-4791-adde-d63060560757")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.4889 153.67 0)
+			(at 113.3711 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8924,7 +8924,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -9602,17 +9602,17 @@
 	)
 	(global_label "SD_D1"
 		(shape input)
-		(at 153.67 151.13 0)
+		(at 123.19 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7bb89021-7cf5-4823-937d-911b4f16a04a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.5818 151.13 0)
+			(at 114.2782 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9620,7 +9620,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
